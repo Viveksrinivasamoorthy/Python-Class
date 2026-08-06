@@ -1,1 +1,2 @@
 SELECT* FROM EMPLOYEES;
+select * from DEPARTMENTS;
